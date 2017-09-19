@@ -1,0 +1,37 @@
+*{
+  font-family: 'Encode Sans Semi Condensed', sans-serif;
+}
+
+button{
+  margin: 8%;
+}
+
+.bold{
+  font-size: 2em;
+  background-color: darkcyan;
+  border: 2px double darkorange;
+  border-radius: 2px;
+  margin: 35px auto 35px auto;
+}
+
+.bordered{
+  background-color: darkcyan;  
+  border: 1px double darkslategrey;
+  border-radius: 4%;
+}
+
+.critter{
+  margin: 30px auto 30px auto;
+}
+
+.section{
+  display: inline-block;
+  margin: 5px auto 5px 10px;
+}
+
+.submenu{
+  display: inline-block;
+  background-color: lightslategrey;
+  margin: auto;
+  padding: 8px auto 8px 30px;
+}
